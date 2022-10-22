@@ -1,6 +1,6 @@
 {
-   "version": 2,
-   "name": "urna",
+   "version": 3,
+   "name": "chat",
    "builds": [
       { "src": "app.js", "use": "@vercel/node" }
    ],
